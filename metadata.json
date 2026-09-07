@@ -1,0 +1,6 @@
+{
+  "name": "Roopam Indian Luxury Salon",
+  "description": "Luxury Indian salon app featuring real-time stylist availability, UPI advance payments, and a complete salon-side staff portal for floor operations, walk-in seating, and appointment management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
